@@ -5,7 +5,7 @@ Laravel 5.4 Chat App
 
 Clone the project repository by running the command below if you use SSH
 ```
-git clone https://github.com/ammezie/laravel-chat.git
+git clone https://github.com/afasari/LaraChat.git
 ```
 
 
