@@ -65,3 +65,25 @@ php artisan serve
 ```
 
 and visit [http://localhost:8000/](http://localhost:8000/) to see the application in action.
+
+### Demo
+```
+http://afasari.com/
+```
+
+As user :
+```
+http://afasari.com/login
+```
+```
+http://afasari.com/register
+```
+username = batiar@afasari.com
+password = Afasari11
+
+As Admin :
+```
+http://afasari.com/admin
+```
+username = admin@afasari.com
+password = password
