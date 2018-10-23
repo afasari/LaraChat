@@ -79,7 +79,7 @@ http://afasari.com/login
 http://afasari.com/register
 ```
 username = batiar@afasari.com
-password = Afasari11
+password = Inipassword
 
 As Admin :
 ```
